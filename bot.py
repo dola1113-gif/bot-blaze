@@ -5,8 +5,8 @@ from collections import deque
 from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta
 
-TOKEN = "8652332209:AAFv6vSuGcNk-2nZ04eQbrx1qaXrxweljro"
-CHAT_ID = "5233844811"
+TOKEN = 
+CHAT_ID = 
 
 def enviar(msg):
     try:
